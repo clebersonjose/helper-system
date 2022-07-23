@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "222774734661",
+    "project_id": "helper-system",
+    "storage_bucket": "helper-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222774734661:android:7d981c3c86aab5c5cfd82c",
+        "android_client_info": {
+          "package_name": "com.cjandrade.helpersystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222774734661-vn2s7bjkqcqf7hp81oi41mb5u2mfb363.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLfEOPaUbStD6ixH0DTmIvYQPr2CliW4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222774734661-vn2s7bjkqcqf7hp81oi41mb5u2mfb363.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222774734661-ouacogsgibjvlmu39jlvmrq9mkdl9n0o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cjandrade.helpersystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
